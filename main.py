@@ -36,4 +36,4 @@ async def mytask():
     channel = client.get_channel(1025228911551987824)
     await channel.send(link)
 
-client.run('MTAyNTIyNTU4Nzg5MzIxNTMyMw.GEuzdS.zwgbP1E78ft0hR8axCGCUCZspl2xx77xDxo4-4')
+client.run('MTAyNTIyNTU4Nzg5MzIxNTMyMw.GLlhEg.6kgyS0FRDYrlzgD02QTPUUziLxOmyoBa06N5Z4')
